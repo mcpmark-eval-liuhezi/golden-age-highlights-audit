@@ -1,34 +1,36 @@
-# Dutch Golden Age Highlights — Research Draft Notes
+# Dutch Golden Age highlights — raw research notes
 
-Audit trail for the Dutch Golden Age highlights feature page. Raw notes pulled from the Rijksmuseum collection (keyless Data Services Search API / Linked Art).
+Feature page tracker for three Rijksmuseum collection records.
+
+---
 
 ## 1. The Night Watch
 
 - **Inventory number:** SK-C-5
-- **Title:** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht' (The Night Watch)
-- **Maker:** Rembrandt van Rijn (attributed in collection records)
-- **Dating:** 1642
-- **Materials / technique:** Oil on canvas (Rembrandt, 1642) — top-piece of the Amsterdam lakenbereidersgilde civic-guard company portrait
-
-## 2. De Staalmeesters (The Company of the Chamber of Delft? — more precisely the Chamber of the Stonecutters / Waardijns)
-
-- **Inventory number:** SK-C-6
-- **Title:** De Staalmeesters: het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde
+- **Title (as recorded):** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
 - **Maker:** Rembrandt van Rijn
-- **Dating:** 1662
-- **Materials / technique:** Oil on canvas — one of the most famous group portraits of the Golden Age
+- **Dating:** 1642
+- **Materials / technique:** oil on canvas (painting)
+- **Collection record ID:** https://id.rijksmuseum.nl/200107928
 
-## 3. De magere compagnie (The Van Reael Company)
+## 2. A Shepherdess, known as the beautiful shepherdess
 
-- **Inventory number:** SK-C-374
-- **Title:** Het korporaalschap van kapitein Reynier Reael en luitenant Cornelis Michielsz Blaeuw, Amsterdam, 1637, bekend als 'De magere compagnie'
-- **Maker:** Frans Hals
-- **Dating:** 1637
-- **Materials / technique:** Oil on canvas — a group portrait of the poor civic-guard company, famed for the loose, sketchy Hals brushwork
+- **Inventory number:** SK-A-276
+- **Title (as recorded):** A shepherdess, known as the beautiful shepherdess
+- **Maker:** Rembrandt van Rijn
+- **Dating:** 1630
+- **Materials / technique:** oil on canvas (painting)
+- **Collection record ID:** https://id.rijksmuseum.nl/200107770
+
+## 3. Portret van een man uit de familie Pauw
+
+- **Inventory number:** SK-C-1440
+- **Title (as recorded):** Portret van een man uit de familie Pauw
+- **Maker:** Rembrandt van Rijn
+- **Dating:** 1625
+- **Materials / technique:** oil on canvas (painting)
+- **Collection record ID:** https://id.rijksmuseum.nl/200107771
 
 ---
 
-### Search parameters used
-- Top-pieces search: 17th century, type: painting → 762 results total
-- Night Watch record pulled directly via inventory number SK-C-5
-- All three works are Rijksmuseum top-pieces (toppieces=true)
+Top-pieces search (century=17, toppieces=true, type=painting) returned 762 total results; the first page returned 10 artworks.
