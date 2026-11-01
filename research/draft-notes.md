@@ -18,16 +18,17 @@ Raw notes for the three works selected for the 'Dutch Golden Age highlights' fea
 - Materials/Technique: oil on canvas
 - Collection record ID: https://id.rijksmuseum.nl/200107770
 
-## 3. Portret van een man uit de familie Pauw
-- Inventory number: SK-C-1440
-- Title: Portret van een man uit de familie Pauw
+## 3. Portrait of Constantijn Huygens (1596-1687), lord of Zuylichem, secretary of Frederik Hendrick, Willem II and Willem III, and poet
+- Inventory number: SK-A-292
+- Title: Portrait of Constantijn Huygens (1596-1687), lord of Zuylichem, secretary of Frederik Hendrick, Willem II and Willem III, and poet
 - Maker: Frans Hals
-- Dating: 1625
+- Dating: 1672
 - Materials/Technique: oil on canvas
-- Collection record ID: https://id.rijksmuseum.nl/200107771
+- Collection record ID: https://id.rijksmuseum.nl/200107787
 
-## Source: Rijksmuseum collection ( top pieces search, 17th century, painting)
-- Search returned total: 762 results (page of 10 returned)
-- SK-C-5 confirmed via toppieces + Rembrandt van Rijn + 17th century search (total 19)
-- SK-A-276 confirmed via toppieces + Michiel van Mierevelt + 17th century search (total 9)
-- SK-C-1440 confirmed via toppieces + Frans Hals + 17th century search (total 9); 'Pauw' query matched SK-C-1440 (1625)
+## Source: Rijksmuseum collection — top pieces search (17th century, painting)
+- Top-pieces search (17th century, all types) returned total: 45001 results (10 per page)
+- Top-pieces search (17th century, painting) returned total: 762 results (10 per page)
+- SK-C-5 confirmed via toppieces + Rembrandt van Rijn + 17th century search
+- SK-A-276 confirmed via toppieces + Michiel van Mierevelt + 17th century search
+- SK-A-292 confirmed via toppieces + Frans Hals + 17th century search
