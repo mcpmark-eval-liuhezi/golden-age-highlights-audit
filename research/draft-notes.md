@@ -1,4 +1,4 @@
-# Dutch Golden Age Highlights — Raw Research Notes
+# Dutch Golden Age Highlights — Raw Research Notes (Checkpoint)
 
 ## 1. The Night Watch
 - **Inventory number:** SK-C-5
