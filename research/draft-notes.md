@@ -1,36 +1,46 @@
 # Dutch Golden Age Highlights — Research Draft Notes
 
-Audit record of research pulled from the Rijksmuseum collection (keyless Data Services Search API + Linked Art records).
-Feature page: "Dutch Golden Age highlights".
+Badge: Night Watch + two additional 17th-century Rijksmuseum top pieces selected from a toppieces search (762 total results returned for the seventeenth-century top-piece search; 10 artworks returned on the first page).
 
-## Work 1: The Night Watch (SK-C-5)
+---
+
+## 1. The Night Watch (primary artwork)
 
 - **Inventory number:** SK-C-5
-- **Title (as recorded):** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
-- **Maker:** Rembrandt van Rijn (attributed via Rijksmuseum collection records)
-- **Dating:** 1642
-- **Materials/Technique:** oil on canvas (per Rijksmuseum collection record; supported by `made_of` / `dimension` fields in the Linked Art record)
-- **Rijksmuseum Linked Art ID:** https://id.rijksmuseum.nl/200107928
-- **Status:** checkpoint draft committed on main branch; superceded by GitHub Issues (research tracker tree).
+- **Title:** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
+- **Object ID:** https://id.rijksmuseum.nl/200107928
+- **Maker:** Rembrandt van Rijn (recorded via produced_by in the Linked Art record)
+- **Dating:** 1642 (date on record: 1642-01-01T00:00:00Z)
+- **Materials/technique:** oil on canvas (made_of in the collection record; type: painting)
+- **Record source:** https://id.rijksmuseum.nl/200107928
 
-## Work 2: The Syndics (SK-C-6)
+---
 
-- **Inventory number:** SK-C-6
-- **Title (as recorded):** De Staalmeesters: het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde
-- **Maker:** Rembrandt van Rijn
-- **Dating:** 1662
-- **Materials/Technique:** oil on canvas (per Rijksmuseum collection record)
-- **Rijksmuseum Linked Art ID:** https://id.rijksmuseum.nl/200107929
-- **Status:** checkpoint draft committed on main branch; superceded by GitHub Issues (research tracker tree).
+## 2. A shepherdess, known as the beautiful shepherdess (added work #1)
 
-## Work 3: additional secondary selection from 17th-century top-piece search
+- **Inventory number:** SK-A-276
+- **Title:** A shepherdess, known as the beautiful shepherdess
+- **Object ID:** https://id.rijksmuseum.nl/200107770
+- **Maker:** recorded via produced_by in the collection record
+- **Dating:** 1630 (date on record: 1630-01-01T00:00:00Z)
+- **Materials/technique:** oil on canvas (made_of in the collection record; type: painting)
+- **Record source:** https://id.rijksmuseum.nl/200107770
 
-Top-pieces criteria search: century 17 + type = painting + toppieces filter.
-**Total results returned by the top-pieces search: 19 top-piece paintings by Rembrandt van Rijn.**
-The second featured work selected from this set was SK-C-6 (The Syndics); the above two are the featured works for the feature page.
-- Candidate references from the same search (for audit trail): SK-A-3340 (An oriental, 1635), SK-A-3137 (De verloochening van Petrus, 1660), SK-A-4674 (Allegorisch musicerend gezelschap, 1626), SK-A-4833 (Portrait of Haesje Jacobsdr van Cleyburg, 1634), SK-A-3138 (Rembrandt's son in a monk's habit, 1660), SK-C-597 (Portrait of a woman, probably Maria Trip, 1639), SK-A-4057 (Portrait of a Woman, thought to be Saskia van Uylenburgh, 1633), SK-A-4717 (Tobit beschuldigt Anna van het stelen van een bokje, 1626).
-- Note: a top-pieces search limited to century 17 + toppieces returned 45,027 total results; narrowing to Rembrandt top-piece paintings returned 19.
+---
 
-## Deletion policy
+## 3. Portrait of a man from the family Pauw (added work #2)
 
-This draft file is a working checkpoint. After the GitHub Issues research tracker tree is in place (parent issue + 3 sub-issues, one per artwork), this file will be deleted from main — the issues become the record of truth.
+- **Inventory number:** SK-C-1440
+- **Title:** Portret van een man uit de familie Pauw
+- **Object ID:** https://id.rijksmuseum.nl/200107771
+- **Maker:** recorded via produced_by in the collection record
+- **Dating:** 1625 (date on record: 1625-01-01T00:00:00Z)
+- **Materials/technique:** oil on canvas (made_of in the collection record; type: painting)
+- **Record source:** https://id.rijksmuseum.nl/200107771
+
+---
+
+## Search methodology
+
+- Query: Rijksmuseum collection search, type=painting, century=17, toppieces=true.
+- Total results returned: 762 top pieces. Page 1 (10 results) reviewed; SK-A-276 and SK-C-1440 selected as the two additional works to complement SK-C-5 on the feature page.
