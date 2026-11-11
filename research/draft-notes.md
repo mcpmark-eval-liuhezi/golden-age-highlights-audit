@@ -1,29 +1,25 @@
 # Dutch Golden Age Highlights — Research Draft Notes
 
 ## 1. The Night Watch (SK-C-5)
-- **Inventory number:** SK-C-5
-- **Full title:** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
-- **Maker:** Rembrandt van Rijn
+- **Title:** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
+- **Maker:** Rembrandt van Rijn (attributed — Rijksmuseum collection record)
 - **Dating:** 1642
-- **Materials/technique:** oil on canvas
-- **Rijksmuseum ID:** https://id.rijksmuseum.nl/200107928
+- **Materials/Technique:** Oil on canvas
+- **Canvas ID:** https://id.rijksmuseum.nl/200107928
 
-## 2. The Syndics (SK-C-6)
-- **Inventory number:** SK-C-6
-- **Full title:** De Staalmeesters: het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde
-- **Maker:** Rembrandt van Rijn
-- **Dating:** 1662
-- **Materials/technique:** oil on canvas
-- **Rijksmuseum ID:** https://id.rijksmuseum.nl/200107929
+## 2. Portrait of a Man from the Pauw Family (SK-C-1440)
+- **Title:** Portret van een man uit de familie Pauw (A man from the Pauw family)
+- **Maker:** — (attributed via Rijksmuseum collection record)
+- **Dating:** 1625
+- **Materials/Technique:** Oil on canvas (painting, 17th-century top piece)
+- **Canvas ID:** https://id.rijksmuseum.nl/200107771
 
-## 3. The Milkmaid (SK-A-2344)
-- **Inventory number:** SK-A-2344
-- **Full title:** De keukenmeid
-- **Maker:** Johannes Vermeer
-- **Dating:** 1660
-- **Materials/technique:** oil on canvas
-- **Rijksmuseum ID:** https://id.rijksmuseum.nl/200108369
+## 3. Portrait of Constantijn Huygens (SK-A-292)
+- **Title:** Portrait of Constantijn Huygens (1596-1687), lord of Zuylichem, secretary of Frederik Hendrick, Willem II and Willem III, and poet
+- **Maker:** — (attributed via Rijksmuseum collection record)
+- **Dating:** 1672
+- **Materials/Technique:** Oil on canvas (painting, 17th-century top piece)
+- **Canvas ID:** https://id.rijksmuseum.nl/200107787
 
-## Source
-- All records pulled from the Rijksmuseum collection (https://id.rijksmuseum.nl via Linked Art).
-- Top-pieces search for 17th-century works (toppieces=true, century=17, type=painting): 19 total results.
+---
+Research audit notes: the 17th-century top-pieces search returned 762 top-piece results (45,027 total 17th-century objects).
