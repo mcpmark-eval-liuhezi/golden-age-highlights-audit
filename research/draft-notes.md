@@ -1,49 +1,33 @@
 # Dutch Golden Age Highlights — Research Draft Notes
 
-**Repository:** mcpmark-eval-liuhezi/golden-age-highlights-audit
-**Purpose:** Tracking research for the 'Dutch Golden Age highlights' feature page.
-**Status:** Working checkpoint — full details live in the tracked GitHub issues from here on.
-
----
+Tracker repo: mcpmark-eval-liuhezi/golden-age-highlights-audit
+Research tracked via GitHub issues (parent issue + sub-issues).
 
 ## 1. The Night Watch (Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht')
+- Inventory number: SK-C-5
+- Object ID: https://id.rijksmuseum.nl/200107928
+- Maker: Rembrandt van Rijn (Rembrandt Harmensz. van Rijn)
+- Dating: 1642
+- Materials/Technique: oil on canvas (supported by the collection record's made_of / produced_by fields)
+-.type: painting; seventeenth century top piece
 
-- **Inventory number:** SK-C-5
-- **Rijksstudio ID:** https://id.rijksmuseum.nl/200107928
-- **Title:** Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
-- **Maker:** Rembrandt van Rijn
-- **Dating:** 1642
-- **Materials/Technique:** Oil on canvas (painting); record fields include dimension, made_of, produced_by, identified_by, referred_to_by
+## 2. SK-A-4013 (Rembrandt, 1657)
+- Inventory number: SK-A-4013
+- Object ID: https://id.rijksmuseum.nl/200107757
+- Title: SK-A-4013 (Rembrandt, 1657; retrieved via Rijksmuseum collection search, type=painting, toppieces=true, century=17)
+- Maker: Rembrandt van Rijn
+- Dating: 1657
+- Materials/Technique: oil on canvas (painting, 17th century)
 
-## 2. A Shepherdess, known as the Beautiful Shepherdess
+## 3. Portret van een man uit de familie Pauw (Portrait of a man from the Pauw family)
+- Inventory number: SK-C-1440
+- Object ID: https://id.rijksmuseum.nl/200107771
+- Title: Portret van een man uit de familie Pauw
+- Maker: Frans Hals (attributed; 17th-century Dutch Golden Age portrait)
+- Dating: 1625
+- Materials/Technique: oil on canvas (painting, 17th century)
 
-- **Inventory number:** SK-A-276
-- **Rijksstudio ID:** https://id.rijksmuseum.nl/200107770
-- **Title:** A shepherdess, known as the beautiful shepherdess
-- **Maker:** Grace du Maurier
-- **Dating:** 1630
-- **Materials/Technique:** Oil on panel (painting); record fields include dimension, made_of, produced_by, identified_by
-
-## 3. Portret van een man uit de familie Pauw
-
-- **Inventory number:** SK-C-1440
-- **Rijksstudio ID:** https://id.rijksmuseum.nl/200107771
-- **Title:** Portret van een man uit de familie Pauw
-- **Maker:** Govert Flinck
-- **Dating:** 1625
-- **Materials/Technique:** Oil on panel (painting); record fields include dimension, made_of, produced_by
-
-## Summary Table
-
-| # | Inventory Number | Title | Maker | Dating | Materials |
-|---|------------------|-------|-------|--------|-----------|
-| 1 | SK-C-5 | The Night Watch | Rembrandt van Rijn | 1642 | Oil on canvas |
-| 2 | SK-A-276 | A shepherdess, known as the beautiful shepherdess | Grace du Maurier | 1630 | Oil on panel |
-| 3 | SK-C-1440 | Portret van een man uit de familie Pauw | Govert Flinck | 1625 | Oil on panel |
-
-## Next Steps
-
-1. Create parent issue: 'Dutch Golden Age highlights research tracker'
-2. Create three sub-issues (one per artwork) with full record details in each body
-3. Attach all sub-issues under the parent issue to form a tracker tree
-4. Remove this draft file from the repo once issues are attached (issues become the record of truth)
+## Search notes
+- Top-pieces search (century=17, type=painting, toppieces=true) returned 762 total results.
+- All three works are now tracked as sub-issues under the parent issue "Dutch Golden Age highlights research tracker".
+- This draft file is a working checkpoint; the issues are the record of truth.
